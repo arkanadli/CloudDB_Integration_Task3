@@ -1,6 +1,6 @@
 <?php
 $host = "database-1.cb44egeuga65.ap-southeast-2.rds.amazonaws.com";
-$dbname = "nama_database_anda"; 
+$dbname = ""; 
 $username = "arkanadli";
 $password = "adlidewa321123";
 
